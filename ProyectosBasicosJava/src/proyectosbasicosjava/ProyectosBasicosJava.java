@@ -17,7 +17,9 @@ public class ProyectosBasicosJava {
         // TODO code application logic here
         
         int suma = 2;
-        
+        int resta = 2;
+        int division = 2;
+        int multiplicacion =2;
     }
    
 }
